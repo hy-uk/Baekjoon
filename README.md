@@ -25,7 +25,7 @@ print(int(a)+int(b))
 ### 2588
 <img width="50%" height="50%" alt="스크린샷 2025-09-19 142055" src="https://github.com/user-attachments/assets/ab05ad21-2ef9-4b72-9085-db8648d50377" />
 
-* 나머지를 구해서 곱하는 방식도 괜찮지만 input을 활용해 문자열 그 자체로 받아서
+* 몫과 나머지를 구해서 곱하는 방식도 괜찮지만 input을 활용해 문자열 그 자체로 받아서
 백의자리, 십의자리, 일의자리를 각각 하나씩 생각해서 곱하는 방법도 있음
 ```py
 A = int(input())
