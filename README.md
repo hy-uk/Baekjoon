@@ -15,8 +15,8 @@ print(int(a)+int(b))
 ### 10869
 * 정수인 몫을 구할 때는 int(a/b)도 되지만 '//' 자체가 몫을 구하는 연산자임
 
-### 10926 ![alt text](<../스크린샷 2025-09-19 004226.png>)
-<img src="../스크린샷 2025-09-19 004226.png" width="70%" height="70%"/>
+### 10926 
+<img width="50%" height="50%" alt="스크린샷 2025-09-19 120534" src="https://github.com/user-attachments/assets/698506b8-c131-421f-a840-e9c21e2e345c" />
 
 * input은 언급이 없으면 'str'로 받기 때문에 ','로 잇는 것이 아닌 +로 두 문장을 합쳐줌
 * print(input()+"??!")로도 풀이 가능
