@@ -29,7 +29,6 @@
 #     print(1)
 # else:
 #     print(0)
-
 # # 14681
 # x=int(input())
 # y=int(input())
