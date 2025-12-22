@@ -45,7 +45,7 @@ if x>0:
 else:
     if y>0:
         print(2)
-    elif y<0
+    elif y<0:
         print(3)
 
 
